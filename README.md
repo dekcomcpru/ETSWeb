@@ -1,6 +1,6 @@
 # ETSWeb
-createconnectDatabase,createServlet
-Add,Edit,Update,search,DeleteData
-Handle error session timeout
-Config file properties
-createLogConsloe
+1. createconnectDatabase,createServlet
+2. Add,Edit,Update,search,DeleteData
+3. Handle error session timeout
+4. Config file properties
+5. createLogConsloe
